@@ -3,18 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="test.Day3">
+      <class name="test.Day1">
         <methods>
-          <include name="afterclas"/>
-          <include name="beforeclas"/>
-          <include name="APICarLoan"/>
-          <include name="bfsuite"/>
-          <include name="WebloginCarLoan"/>
-          <include name="beforeevery"/>
-          <include name="MobileSignoutHomeLoan"/>
-          <include name="afterevery"/>
+          <include name="Demo"/>
+          <include name="lastexecution"/>
+          <include name="afsuite"/>
         </methods>
-      </class> <!-- test.Day3 -->
+      </class> <!-- test.Day1 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

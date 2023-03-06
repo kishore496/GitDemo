@@ -29,6 +29,10 @@ public class Day1 {
 		System.out.println("Bye");
 		System.out.println("Bye1");
 		System.out.println("Bye2");
+		
+		System.out.println("Bye3");
+		System.out.println("Bye4");
+		System.out.println("Bye5");
 
 	}
 

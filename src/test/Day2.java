@@ -8,6 +8,8 @@ public class Day2 {
 	@Test(groups= {"Smoke"})
 	public void Demo() {
 		System.out.println("Good");
+		
+		System.out.println("Too Good");
 
 	}
 	
