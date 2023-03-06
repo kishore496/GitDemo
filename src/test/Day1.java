@@ -27,6 +27,8 @@ public class Day1 {
 	public void Demo1() {
 
 		System.out.println("Bye");
+		System.out.println("Bye1");
+		System.out.println("Bye2");
 
 	}
 
