@@ -48,5 +48,14 @@ public class Day1 {
 		System.out.println("Bye5");
 
 	}
+	
+	@Test
+	public void Demo6() {
+
+		System.out.println("Bye");
+		System.out.println("Bye1");
+		System.out.println("Bye2");
+
+	}
 
 }
