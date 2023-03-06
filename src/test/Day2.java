@@ -10,8 +10,21 @@ public class Day2 {
 		System.out.println("Good");
 		
 		System.out.println("Too Good");
+		
+		System.out.println("love");
 
 	}
+	
+	@Test(groups= {"Smoke"})
+	public void Demo2() {
+		System.out.println("Good");
+		
+		System.out.println("Too Good");
+		
+		System.out.println("love");
+
+	}
+	
 	
 @BeforeTest
 public void Prerequestie() {
